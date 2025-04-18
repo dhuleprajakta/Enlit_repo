@@ -18,4 +18,7 @@ This is an AI-powered tool that processes resumes (PDF/DOCX format), evaluates t
 - **smtplib**: For sending emails.
 - **scikit-learn**: For scoring resumes based on machine learning models.
 
-![Resume Score Screenshot](https://github.com/your-username/your-repository-name/raw/main/resume_score.png)
+## Screenshot
+Here’s a screenshot of how the application looks:
+
+![Resume Score Screenshot](https://github.com/dhuleprajakta/enlit_repo/raw/main/resume_score.png)
